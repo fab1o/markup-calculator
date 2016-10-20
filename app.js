@@ -15,7 +15,7 @@ function flatMarkup (basePrice) {
 
     var markup = basePrice * (MARKUP.FLAT / 100);
 
-    return markup;
+    return basePrice + markup;
 }
 
 function workMarkup (basePrice, qtyPeople) {
