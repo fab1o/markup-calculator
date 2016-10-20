@@ -1,6 +1,25 @@
 Markup Calculator
 ===============
 
+##How to run
+
+1. Install mocha
+
+    `> npm install -g mocha`
+
+2. Install dependencies
+
+    `> npm install`
+ 
+3. Run tests
+
+    `> mocha`
+
+
+
+
+- - - -
+- - - -
 NuPack is responsible for taking existing products and repackaging them for sale at electronic stores like Best Buy. Companies will phone up NuPack, explain the process and NuPack needs to quickly give them an estimate of how much it will cost. Different markups to the job:
 
 * Without exception, there is a flat markup on all jobs of 5%
